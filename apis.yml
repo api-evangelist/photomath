@@ -71,6 +71,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/google/
+  name: Google
+  x-relationship: acquired
+  x-evidence: "Originally built by Croatian computer-vision company Microblink and later spun out as an independent education company backed by Menlo Ventures and Goldman Sachs, Photomath was acquired by Google in 2023 and now operates within Google (supp"
 - type: Website
   url: https://photomath.com
 - type: About
