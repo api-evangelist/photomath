@@ -50,7 +50,7 @@ tags:
 - EdTech
 - Mathematics
 - Learning
-- Computer-Vision
+- Computer Vision
 - Mobile App
 - Consumer
 - Google
@@ -64,6 +64,7 @@ tags_raw:
 - Mobile App
 - Consumer
 - Google
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
